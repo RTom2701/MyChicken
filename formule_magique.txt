@@ -1,0 +1,1 @@
+yolo predict model=yolov8x.pt source="" show=True box=True conf=0.01
